@@ -30,7 +30,7 @@
     "fast-memoize": "2.0.2",
     "jsonfile": "2.4.0",
     "lodash": "4.15.0",
-    "node-elm-repl": "^2.2.0",
+    "node-elm-repl": "^2.3.0",
     "ps-node": "^0.1.2",
     "react-elm-components": "1.0.0",
     "react-for-atom": "^15.3.1-0",
